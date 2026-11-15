@@ -1,6 +1,6 @@
 <div align="center">
 
-# ๋࣭ ⭑⚝✮⋆˙ BEATRIZ DE JESUS ๋࣭ ⭑⚝✮⋆˙
+# ๋࣭ ⭑⚝✮⋆˙ BEATRIZ SILVA ๋࣭ ⭑⚝✮⋆˙
 
 **ADS • Python • Java • JavaScript • HTML • Azure • Git**
 
